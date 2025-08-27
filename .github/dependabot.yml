@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directories:
+      - /impalaai
+      - /monitoring/lambdatos3
+      - /runner
+    ignore:
+      - dependency-name: impalaai
+    schedule:
+      interval: daily
+    target-branch: feature/imp-165-add-dependabot-ci-for-automated-dependency-updates

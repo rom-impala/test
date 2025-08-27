@@ -9,4 +9,3 @@ updates:
       - dependency-name: impalaai
     schedule:
       interval: daily
-    target-branch: feature/imp-165-add-dependabot-ci-for-automated-dependency-updates

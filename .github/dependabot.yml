@@ -9,3 +9,5 @@ updates:
       - dependency-name: impalaai
     schedule:
       interval: daily
+    open-pull-requests-limit: 30
+

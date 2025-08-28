@@ -21,7 +21,7 @@ test = [
 ]
 dev = [
     "boto3-stubs[all]==1.40.18",
-    "types-aioboto3[all]==13.4.0",
+    "types-aioboto3[all]==15.1.0",
 ]
 
 [tool.pytest.ini_options]

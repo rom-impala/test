@@ -20,7 +20,7 @@ test = [
     "moto[boto3]==5.1.11",
 ]
 dev = [
-    "boto3-stubs[all]==1.40.18",
+    "boto3-stubs[all]==1.40.20",
     "types-aioboto3[all]==13.4.0",
 ]
 

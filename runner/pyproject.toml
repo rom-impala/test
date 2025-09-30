@@ -9,7 +9,7 @@ dependencies = [
     "aiohttp==3.12.15",
     "aioboto3==13.4.0",
     "tqdm==4.67.1",
-    "kubernetes==33.1.0",
+    "kubernetes==34.1.0",
     "transformers==4.55.4",
     "impalaai",
 ]

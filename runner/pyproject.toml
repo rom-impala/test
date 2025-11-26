@@ -10,7 +10,7 @@ dependencies = [
     "aioboto3==13.4.0",
     "tqdm==4.67.1",
     "kubernetes==33.1.0",
-    "transformers==4.55.4",
+    "transformers==4.57.3",
     "impalaai",
 ]
 readme = "README.md"

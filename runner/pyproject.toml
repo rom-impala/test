@@ -17,7 +17,7 @@ readme = "README.md"
 
 [project.optional-dependencies]
 test = [
-    "moto[boto3]==5.1.11",
+    "moto[boto3]==5.1.18",
 ]
 dev = [
     "boto3-stubs[all]==1.40.18",
